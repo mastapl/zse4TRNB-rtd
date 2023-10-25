@@ -25,6 +25,6 @@ Link_
     i) Sith
 3) Rey
 
-.. image:: filename.png
+.. image:: docs/bebe ban dziopak.png
   :width: 400
-  :alt: Alternative text
+  :alt: Pepe Pan Dziobak ale to Czarnobyl
